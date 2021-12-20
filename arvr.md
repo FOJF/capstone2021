@@ -38,7 +38,6 @@
 - VR,AR유저가 딥러닝을 이용해 환경오염, 에너지절약 미션을 함께 해결해 나가는 교육용 컨텐츠
 - **박종찬** 정지완, 홍승현
 - 김진모 교수님
-- [GitHub Link](https://github.com/FOJF/Green-Sweet-Home)
 - Youtube 동영상 <br>
 [![Green Sweet Home 발표 영상](https://img.youtube.com/vi/_aIbjnWPXYM/0.jpg)](https://www.youtube.com/watch?v=_aIbjnWPXYM)
 - [YouTube Live](https://youtu.be/tno9Az0KdGM)
